@@ -32,6 +32,7 @@
     </data>
 
     <com.google.android.material.card.MaterialCardView
+        android:theme="@style/Theme.MaterialComponents"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:cardCornerRadius="0dp"
